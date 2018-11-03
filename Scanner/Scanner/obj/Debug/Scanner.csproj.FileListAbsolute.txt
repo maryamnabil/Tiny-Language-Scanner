@@ -1,0 +1,9 @@
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\bin\Debug\Scanner.exe.config
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\bin\Debug\Scanner.exe
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\bin\Debug\Scanner.pdb
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.csprojResolveAssemblyReference.cache
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.Form1.resources
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.csproj.GenerateResource.Cache
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.exe
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.pdb
